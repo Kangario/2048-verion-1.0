@@ -1,0 +1,37 @@
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\obj\Debug\GameProject.GameControl.resources
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\bin\Debug\GameSST2048.exe.config
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\bin\Debug\GameSST2048.exe
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\bin\Debug\GameSST2048.pdb
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.exe
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.pdb
+C:\Users\Lenovo\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.MainForm.resources
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\bin\Debug\GameSST2048.exe.config
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\bin\Debug\GameSST2048.exe
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\bin\Debug\GameSST2048.pdb
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\obj\Debug\GameSST2048.MainForm.resources
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\obj\Debug\GameProject.GameControl.resources
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\obj\Debug\GameSST2048.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\obj\Debug\GameSST2048.exe
+C:\Users\Lenovo\Desktop\Обучение НПК\3 курс\5-й семестр\Инструментальные средства разработки программного обеспечения\GameSST2048\GameSST2048\obj\Debug\GameSST2048.pdb
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\bin\Debug\GameSST2048.exe.config
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\bin\Debug\GameSST2048.exe
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\bin\Debug\GameSST2048.pdb
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.AssemblyReference.cache
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.MainForm.resources
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\obj\Debug\GameProject.GameControl.resources
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.Properties.Resources.resources
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.GenerateResource.cache
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.csproj.CoreCompileInputs.cache
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.exe
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\obj\Debug\GameSST2048.pdb
+C:\Users\Kangarion\Desktop\GameSST2048\GameSST2048\obj\Debug\game2048.PoleGame.resources
